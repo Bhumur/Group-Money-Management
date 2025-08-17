@@ -1,0 +1,6 @@
+@GroupFund_HostAddress = http://localhost:5279
+
+GET {{GroupFund_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

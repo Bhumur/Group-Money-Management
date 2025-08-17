@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Group-Money-Management\\GroupFund\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D7E8744-E6D6-4CE7-900C-EE933331FB1E}|GroupFund\\GroupFund.csproj|d:\\projects\\group-money-management\\groupfund\\groupfund\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D7E8744-E6D6-4CE7-900C-EE933331FB1E}|GroupFund\\GroupFund.csproj|solutionrelative:groupfund\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D7E8744-E6D6-4CE7-900C-EE933331FB1E}|GroupFund\\GroupFund.csproj|d:\\projects\\group-money-management\\groupfund\\groupfund\\models\\expensesplit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D7E8744-E6D6-4CE7-900C-EE933331FB1E}|GroupFund\\GroupFund.csproj|solutionrelative:groupfund\\models\\expensesplit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D7E8744-E6D6-4CE7-900C-EE933331FB1E}|GroupFund\\GroupFund.csproj|d:\\projects\\group-money-management\\groupfund\\groupfund\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D7E8744-E6D6-4CE7-900C-EE933331FB1E}|GroupFund\\GroupFund.csproj|solutionrelative:groupfund\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D7E8744-E6D6-4CE7-900C-EE933331FB1E}|GroupFund\\GroupFund.csproj|d:\\projects\\group-money-management\\groupfund\\groupfund\\models\\groupmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D7E8744-E6D6-4CE7-900C-EE933331FB1E}|GroupFund\\GroupFund.csproj|solutionrelative:groupfund\\models\\groupmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D7E8744-E6D6-4CE7-900C-EE933331FB1E}|GroupFund\\GroupFund.csproj|d:\\projects\\group-money-management\\groupfund\\groupfund\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D7E8744-E6D6-4CE7-900C-EE933331FB1E}|GroupFund\\GroupFund.csproj|solutionrelative:groupfund\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D7E8744-E6D6-4CE7-900C-EE933331FB1E}|GroupFund\\GroupFund.csproj|d:\\projects\\group-money-management\\groupfund\\groupfund\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D7E8744-E6D6-4CE7-900C-EE933331FB1E}|GroupFund\\GroupFund.csproj|solutionrelative:groupfund\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D7E8744-E6D6-4CE7-900C-EE933331FB1E}|GroupFund\\GroupFund.csproj|d:\\projects\\group-money-management\\groupfund\\groupfund\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D7E8744-E6D6-4CE7-900C-EE933331FB1E}|GroupFund\\GroupFund.csproj|solutionrelative:groupfund\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D7E8744-E6D6-4CE7-900C-EE933331FB1E}|GroupFund\\GroupFund.csproj|d:\\projects\\group-money-management\\groupfund\\groupfund\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D7E8744-E6D6-4CE7-900C-EE933331FB1E}|GroupFund\\GroupFund.csproj|solutionrelative:groupfund\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Group-Money-Management\\GroupFund\\GroupFund\\Program.cs",
+              "RelativeDocumentMoniker": "GroupFund\\Program.cs",
+              "ToolTip": "D:\\Projects\\Group-Money-Management\\GroupFund\\GroupFund\\Program.cs",
+              "RelativeToolTip": "GroupFund\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T19:50:02.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExpenseSplit.cs",
+              "DocumentMoniker": "D:\\Projects\\Group-Money-Management\\GroupFund\\GroupFund\\Models\\ExpenseSplit.cs",
+              "RelativeDocumentMoniker": "GroupFund\\Models\\ExpenseSplit.cs",
+              "ToolTip": "D:\\Projects\\Group-Money-Management\\GroupFund\\GroupFund\\Models\\ExpenseSplit.cs",
+              "RelativeToolTip": "GroupFund\\Models\\ExpenseSplit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T19:44:58.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "D:\\Projects\\Group-Money-Management\\GroupFund\\GroupFund\\Models\\Expense.cs",
+              "RelativeDocumentMoniker": "GroupFund\\Models\\Expense.cs",
+              "ToolTip": "D:\\Projects\\Group-Money-Management\\GroupFund\\GroupFund\\Models\\Expense.cs",
+              "RelativeToolTip": "GroupFund\\Models\\Expense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T19:44:35.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GroupMember.cs",
+              "DocumentMoniker": "D:\\Projects\\Group-Money-Management\\GroupFund\\GroupFund\\Models\\GroupMember.cs",
+              "RelativeDocumentMoniker": "GroupFund\\Models\\GroupMember.cs",
+              "ToolTip": "D:\\Projects\\Group-Money-Management\\GroupFund\\GroupFund\\Models\\GroupMember.cs",
+              "RelativeToolTip": "GroupFund\\Models\\GroupMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T19:44:14.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Group.cs",
+              "DocumentMoniker": "D:\\Projects\\Group-Money-Management\\GroupFund\\GroupFund\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "GroupFund\\Models\\Group.cs",
+              "ToolTip": "D:\\Projects\\Group-Money-Management\\GroupFund\\GroupFund\\Models\\Group.cs",
+              "RelativeToolTip": "GroupFund\\Models\\Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T19:43:38.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Projects\\Group-Money-Management\\GroupFund\\GroupFund\\Models\\User.cs",
+              "RelativeDocumentMoniker": "GroupFund\\Models\\User.cs",
+              "ToolTip": "D:\\Projects\\Group-Money-Management\\GroupFund\\GroupFund\\Models\\User.cs",
+              "RelativeToolTip": "GroupFund\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T19:43:08.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\Group-Money-Management\\GroupFund\\GroupFund\\appsettings.json",
+              "RelativeDocumentMoniker": "GroupFund\\appsettings.json",
+              "ToolTip": "D:\\Projects\\Group-Money-Management\\GroupFund\\GroupFund\\appsettings.json",
+              "RelativeToolTip": "GroupFund\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-17T19:40:16.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Projects\\Group-Money-Management\\GroupFund\\GroupFund\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "GroupFund\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Projects\\Group-Money-Management\\GroupFund\\GroupFund\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "GroupFund\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T18:56:10.529Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
